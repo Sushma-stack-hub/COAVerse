@@ -72,12 +72,32 @@ The platform is divided into five core modules:
 
 ## 🏗️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** (Add if applicable)  
-- **Design & Prototyping:** Figma  
-- **Version Control:** Git & GitHub  
+Tech Stack – COAVerse
+🖥️ Frontend
+Next.js (React Framework)
+TypeScript
+Tailwind CSS
+HTML5 & CSS3
 
----
+⚙️ Backend
+Node.js
+Express.js
+REST APIs
+
+🧠 AI / ML (if included)
+Python
+Pandas
+Scikit-learn
+Custom ML models for learning assistance
+
+🗄️ Database
+JSON-based storage / Local storage
+(If you used MongoDB or any DB, tell me and I’ll correct this)
+
+🛠️ Tools & Deployment
+Git & GitHub
+Vercel / Localhost Deployment
+Google Drive (Demo Hosting)
 
 ## 🎯 Target Audience
 
