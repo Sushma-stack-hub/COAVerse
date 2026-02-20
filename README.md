@@ -1,5 +1,4 @@
 # COAVerse
-# 🧠 COAVerse  
 **An Immersive Learning Platform for Computer Organization & Architecture**
 
 COAVerse is an interactive learning platform designed specifically for **Computer Organization and Architecture (COA)**, a subject students consistently find abstract, hardware-heavy, and difficult to visualize.
